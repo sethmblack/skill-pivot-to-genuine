@@ -1,17 +1,18 @@
 ---
 name: pivot-to-genuine
-description: "Structure comedy so moments of genuine emotion land with maximum impact through contrast with surrounding material"
+description: Structure comedy so moments of genuine emotion land with maximum impact through contrast with surrounding material
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.4691
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sincerity
-  - comedy
-  - emotional-impact
-  - tonal-shift
-  - vulnerability
-  - conan
+- sincerity
+- comedy
+- emotional-impact
+- tonal-shift
+- vulnerability
+- conan
 ---
 
 # Pivot to Genuine
